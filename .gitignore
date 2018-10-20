@@ -1,0 +1,6 @@
+Application/Admin/Runtime
+Application/Index/Runtime
+html
+Application/Admin/Home/Conf
+Application/Index/Home/Conf
+*.docx
